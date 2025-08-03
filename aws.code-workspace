@@ -1,0 +1,58 @@
+{
+    "folders": [
+        {
+            "path": "../tfm-azure-multitier"
+        },
+        {
+            "path": "../tfm-azure-dmz/.git"
+        },
+        {
+            "path": "../tfm-azure-dmz"
+        },
+        {
+            "path": "../tfm-azure-storageacc/.git"
+        },
+        {
+            "path": "../tfm-aws-acm"
+        },
+        {
+            "path": "../../code/terragrunt-olechka"
+        },
+        {
+            "path": "../rds"
+        },
+        {
+            "path": "../securitygroup"
+        },
+        {
+            "path": "../tfm-azure-vnet"
+        },
+        {
+            "path": "../tfm-azure-vhub"
+        },
+        {
+            "path": "../tfm-azure-storageacc"
+        },
+        {
+            "path": "../tfm-azure-aks-acr"
+        },
+        {
+            "path": "../tfm-aws-dns/tfm-aws-dns"
+        },
+        {
+            "path": "../tfm-aws-netmon/tfm-aws-netmon"
+        },
+        {
+            "path": "../tgw/tgw"
+        },
+        {
+            "path": "../tfm-aws-netlog/tfm-aws-netlog"
+        },
+        {
+            "path": "../tfm-azure-keyvault"
+        },
+        {
+            "path": "."
+        }
+    ]
+}
